@@ -1,5 +1,6 @@
 Scripts to automate safe shutdowns during power outage protection (Python, Apple Swift, Ms Visual Basic)
 
+
 ===== SAFE HIBERNATOR.PY FOR RASPBERRY PI =====
 
 
