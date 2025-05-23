@@ -1,20 +1,5 @@
 Scripts to automate safe shutdowns during power outage protection (Python, Apple Swift, Ms Visual Basic)
 
-===== SAFE HIBERNATOR.SWIFT FOR MAC =====
-
-
-//
-//  main.swift
-//  WiFiHibernator
-//
-// PSEUDOCODE
-// While(WiFi=true)
-// {
-//      Sleep(2)
-// }
-// Shutdown for Safety!
-
-
 ===== SAFE HIBERNATOR.PY FOR RASPBERRY PI =====
 
 
@@ -95,3 +80,18 @@ Module Program
         SysProtect.Method1()
     End Sub
 End Module
+
+
+===== SAFE HIBERNATOR.SWIFT FOR MAC =====
+
+
+//
+//  main.swift
+//  WiFiHibernator
+//
+// PSEUDOCODE
+// While(WiFi=true)
+// {
+//      Sleep(2)
+// }
+// Shutdown for Safety!
