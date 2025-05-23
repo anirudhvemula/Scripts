@@ -1,3 +1,5 @@
+Scripts to automate safe shutdowns during power outage protection (Python, Apple Swift, Ms Visual Basic)
+
 ===== SAFE HIBERNATOR.SWIFT FOR MAC =====
 
 
@@ -5,10 +7,6 @@
 //  main.swift
 //  WiFiHibernator
 //
-//  Created by Sri Nihira on 19/03/21.
-//  Copyright © 2021 Sri Group. All rights reserved.
-//
-
 // PSEUDOCODE
 // While(WiFi=true)
 // {
